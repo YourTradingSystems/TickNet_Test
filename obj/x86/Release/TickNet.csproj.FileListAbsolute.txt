@@ -1,0 +1,75 @@
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.frmFilePath.resources
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.frmTickNet.resources
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\x86\Release\TickNet.exe.manifest
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\x86\Release\TickNet.application
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\x86\Release\TickNet.exe
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\x86\Release\TickNet.pdb
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\x86\Release\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.exe.manifest
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.application
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.exe
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\x86\Release\TickNet.pdb
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.exe
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.pdb
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Release\TickNet.exe.manifest
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Release\TickNet.application
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Release\TickNet.exe
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Release\TickNet.pdb
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Release\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.frmFilePath.resources
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.frmTickNet.resources
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.exe.manifest
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Release\TickNet.application
+D:\Projects\TickNet\obj\x86\Release\Interop.CQG.dll
+D:\Projects\TickNet\obj\x86\Release\TickNet.csproj.ResolveComReference.cache
+D:\Projects\TickNet\obj\x86\Release\TickNet.exe
+D:\Projects\TickNet\obj\x86\Release\TickNet.pdb
+D:\Projects\TickNet\bin\x86\Release\TickNet.exe.manifest
+D:\Projects\TickNet\bin\x86\Release\TickNet.application
+D:\Projects\TickNet\bin\x86\Release\TickNet.exe
+D:\Projects\TickNet\bin\x86\Release\TickNet.pdb
+D:\Projects\TickNet\bin\x86\Release\MySql.Data.dll
+D:\Projects\TickNet\bin\x86\Release\Interop.CQG.dll
+D:\Projects\TickNet\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\TickNet\obj\x86\Release\TickNet.frmFilePath.resources
+D:\Projects\TickNet\obj\x86\Release\TickNet.frmTickNet.resources
+D:\Projects\TickNet\obj\x86\Release\TickNet.frmWait.resources
+D:\Projects\TickNet\obj\x86\Release\TickNet.Properties.Resources.resources
+D:\Projects\TickNet\obj\x86\Release\ResGen.read.1.tlog
+D:\Projects\TickNet\obj\x86\Release\ResGen.write.1.tlog
+D:\Projects\TickNet\obj\x86\Release\TickNet.exe.manifest
+D:\Projects\TickNet\obj\x86\Release\TickNet.application
+D:\Projects\C#\TickNet\obj\x86\Release\Interop.CQG.dll
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.csproj.ResolveComReference.cache
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.exe
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.pdb
+D:\Projects\C#\TickNet\bin\x86\Release\TickNet.exe.manifest
+D:\Projects\C#\TickNet\bin\x86\Release\TickNet.application
+D:\Projects\C#\TickNet\bin\x86\Release\TickNet.exe
+D:\Projects\C#\TickNet\bin\x86\Release\TickNet.pdb
+D:\Projects\C#\TickNet\bin\x86\Release\MySql.Data.dll
+D:\Projects\C#\TickNet\bin\x86\Release\Interop.CQG.dll
+D:\Projects\C#\TickNet\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.frmFilePath.resources
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.frmTickNet.resources
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.frmWait.resources
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.Properties.Resources.resources
+D:\Projects\C#\TickNet\obj\x86\Release\ResGen.read.1.tlog
+D:\Projects\C#\TickNet\obj\x86\Release\ResGen.write.1.tlog
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.exe.manifest
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.application
+D:\Projects\C#\TickNet\obj\x86\Release\TickNet.ConnectionDlg.resources
+D:\Projects\C#\TickNet_Single_Symbol\obj\x86\Release\Interop.CQG.dll
+D:\Projects\C#\TickNet_Single_Symbol\obj\x86\Release\TickNet.csproj.ResolveComReference.cache
+D:\Projects\C#\TickNet_Single_Symbol\obj\x86\Release\TickNet.exe
+D:\Projects\C#\TickNet_Single_Symbol\obj\x86\Release\TickNet.pdb

@@ -1,0 +1,8 @@
+Bid
+Ask
+DOMBid
+DOMAsk
+Quote
+Trade
+DOMBidVol
+DOMAskVol

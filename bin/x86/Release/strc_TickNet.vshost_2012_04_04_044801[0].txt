@@ -1,0 +1,15 @@
+exe_trace.dll failed to write dump file, MiniDumpWriteDump returned an error: 0x80070070
+
+Unable to get available disk space, error 0x00000003
+
+Total physical memory:    3145272 KB
+Free physical memory:     1287832 KB
+Total paging file:        3977668 KB
+Free paging file:         1885952 KB
+Total virtual memory:     2097024 KB
+Free virtual memory:      1672584 KB
+
+Process Id: 0x00000890(2192), Fault thread id: 0x00000BFC(3068)
+Exception code: 0xE06D7363 (MS C++ EXCEPTION)
+Exception address: 0x75B3B9BC
+

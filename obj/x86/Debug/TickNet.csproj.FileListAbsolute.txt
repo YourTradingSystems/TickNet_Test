@@ -1,0 +1,54 @@
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Debug\TickNet.exe.manifest
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Debug\TickNet.application
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Debug\TickNet.exe
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Debug\TickNet.pdb
+C:\Users\Administrator\Desktop\Developer folder\TickNet\bin\x86\Debug\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.frmFilePath.resources
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.frmTickNet.resources
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.exe.manifest
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.application
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.exe
+C:\Users\Administrator\Desktop\Developer folder\TickNet\obj\x86\Debug\TickNet.pdb
+D:\Projects\TickNet\obj\x86\Debug\Interop.CQG.dll
+D:\Projects\TickNet\obj\x86\Debug\TickNet.csproj.ResolveComReference.cache
+D:\Projects\TickNet\obj\x86\Debug\TickNet.exe
+D:\Projects\TickNet\obj\x86\Debug\TickNet.pdb
+D:\Projects\TickNet\bin\x86\Debug\TickNet.exe.manifest
+D:\Projects\TickNet\bin\x86\Debug\TickNet.application
+D:\Projects\TickNet\bin\x86\Debug\TickNet.exe
+D:\Projects\TickNet\bin\x86\Debug\TickNet.pdb
+D:\Projects\TickNet\bin\x86\Debug\MySql.Data.dll
+D:\Projects\TickNet\bin\x86\Debug\Interop.CQG.dll
+D:\Projects\TickNet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\TickNet\obj\x86\Debug\TickNet.frmFilePath.resources
+D:\Projects\TickNet\obj\x86\Debug\TickNet.frmTickNet.resources
+D:\Projects\TickNet\obj\x86\Debug\TickNet.Properties.Resources.resources
+D:\Projects\TickNet\obj\x86\Debug\ResGen.read.1.tlog
+D:\Projects\TickNet\obj\x86\Debug\ResGen.write.1.tlog
+D:\Projects\TickNet\obj\x86\Debug\TickNet.exe.manifest
+D:\Projects\TickNet\obj\x86\Debug\TickNet.application
+D:\Projects\TickNet\obj\x86\Debug\TickNet.frmWait.resources
+D:\Projects\C#\TickNet\obj\x86\Debug\Interop.CQG.dll
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.csproj.ResolveComReference.cache
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.exe
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.pdb
+D:\Projects\C#\TickNet\bin\x86\Debug\TickNet.exe.manifest
+D:\Projects\C#\TickNet\bin\x86\Debug\TickNet.application
+D:\Projects\C#\TickNet\bin\x86\Debug\TickNet.exe
+D:\Projects\C#\TickNet\bin\x86\Debug\TickNet.pdb
+D:\Projects\C#\TickNet\bin\x86\Debug\MySql.Data.dll
+D:\Projects\C#\TickNet\bin\x86\Debug\Interop.CQG.dll
+D:\Projects\C#\TickNet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.frmFilePath.resources
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.frmTickNet.resources
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.frmWait.resources
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.Properties.Resources.resources
+D:\Projects\C#\TickNet\obj\x86\Debug\ResGen.read.1.tlog
+D:\Projects\C#\TickNet\obj\x86\Debug\ResGen.write.1.tlog
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.exe.manifest
+D:\Projects\C#\TickNet\obj\x86\Debug\TickNet.application

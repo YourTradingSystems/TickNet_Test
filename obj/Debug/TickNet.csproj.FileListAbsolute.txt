@@ -1,0 +1,71 @@
+C:\Users\Trader1\Desktop\TickNet\obj\Debug\Interop.CQG.dll
+C:\Users\Trader1\Desktop\TickNet\obj\Debug\TickNet.csproj.ResolveComReference.cache
+C:\Users\Trader1\Desktop\TickNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Trader1\Desktop\TickNet\obj\Debug\TickNet.frmTickNet.resources
+C:\Users\Trader1\Desktop\TickNet\obj\Debug\TickNet.Properties.Resources.resources
+C:\Users\Trader1\Desktop\TickNet\obj\Debug\TickNet.csproj.GenerateResource.Cache
+C:\Users\Trader1\Desktop\TickNet\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Trader1\Desktop\TickNet\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Trader1\Desktop\TickNet\bin\Debug\Interop.CQG.dll
+C:\Users\Trader1\Desktop\TickNet\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Trader1\Desktop\TickNet\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Trader1\Desktop\TickNet\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Admin\Escritorio\TickNet\obj\Debug\Interop.CQG.dll
+C:\Documents and Settings\Admin\Escritorio\TickNet\obj\Debug\TickNet.csproj.ResolveComReference.cache
+C:\Documents and Settings\Admin\Escritorio\TickNet\obj\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\Admin\Escritorio\TickNet\obj\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\Admin\Escritorio\TickNet\bin\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\Admin\Escritorio\TickNet\bin\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\Admin\Escritorio\TickNet\bin\Debug\Interop.CQG.dll
+C:\Documents and Settings\Admin\Escritorio\TickNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\TickNet\obj\Debug\TickNet.frmTickNet.resources
+C:\Documents and Settings\Admin\Escritorio\TickNet\obj\Debug\TickNet.Properties.Resources.resources
+C:\Documents and Settings\Admin\Escritorio\TickNet\obj\Debug\TickNet.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\Interop.CQG.dll
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.csproj.ResolveComReference.cache
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.frmTickNet.resources
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.Properties.Resources.resources
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\bin\Debug\Interop.CQG.dll
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\bin\Debug\TickNet.exe.manifest
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\bin\Debug\TickNet.application
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\bin\Debug\TickNet.exe
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\bin\Debug\TickNet.pdb
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.exe.manifest
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.application
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.exe
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.pdb
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet 01092011\obj\Debug\TickNet.frmFilePath.resources
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\Interop.CQG.dll
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.csproj.ResolveComReference.cache
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.exe
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.pdb
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\bin\Debug\TickNet.exe.manifest
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\bin\Debug\TickNet.application
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\bin\Debug\TickNet.exe
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\bin\Debug\TickNet.pdb
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\bin\Debug\Interop.CQG.dll
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.frmFilePath.resources
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.frmTickNet.resources
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.Properties.Resources.resources
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.exe.manifest
+C:\Documents and Settings\Admin\Escritorio\Development\Lee\TickNet\TickNet\obj\Debug\TickNet.application
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.exe
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.pdb
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\Debug\TickNet.exe.manifest
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\Debug\TickNet.application
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\Debug\TickNet.exe
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\Debug\TickNet.pdb
+C:\Users\Administrator\Desktop\Programs\TickNet\bin\Debug\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.frmFilePath.resources
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.frmTickNet.resources
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.exe.manifest
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Debug\TickNet.application

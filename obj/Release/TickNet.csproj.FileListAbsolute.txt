@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Release\Interop.CQG.dll
+C:\Users\Administrator\Desktop\Programs\TickNet\obj\Release\TickNet.csproj.ResolveComReference.cache
